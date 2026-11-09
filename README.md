@@ -1,0 +1,1 @@
+# leveling-sniper.user.js
